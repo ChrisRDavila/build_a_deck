@@ -1,0 +1,12 @@
+body {
+  background-image: url('../img/cards.jpg');
+  color: orangered;
+  font-size: 200%;
+  font-family: fantasy;
+}
+
+li {
+  background-color:antiquewhite;
+  opacity: 0.75; 
+}
+
